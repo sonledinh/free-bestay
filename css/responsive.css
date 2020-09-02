@@ -1,0 +1,468 @@
+@media (max-width: 767px) {
+  .row {
+    margin: 0 -5px; }
+    .row .col-md-1, .row .col-md-2, .row .col-md-3, .row .col-md-4, .row .col-md-5, .row .col-md-6, .row .col-md-7, .row .col-md-8, .row .col-md-9, .row .col-md-10, .row .col-md-11, .row .col-md-12 {
+      padding: 0 5px; } }
+@media (max-width: 1023px) and (min-width: 768px) {
+  .row {
+    margin: 0 -5px; }
+    .row .col-md-1, .row .col-md-2, .row .col-md-3, .row .col-md-4, .row .col-md-5, .row .col-md-6, .row .col-md-7, .row .col-md-8, .row .col-md-9, .row .col-md-10, .row .col-md-11, .row .col-md-12 {
+      padding: 0 5px; } }
+
+@media (max-width: 767px) {
+    body .container {
+        max-width: 100%;
+    }
+    .header-top a {
+        font-size: 12px;
+    }
+
+    .header-top .left li:last-child {
+        display: block;
+    }
+
+    .header-top .left li {
+        display: none;
+    }
+
+    .header-top {
+        padding: 8px 0;
+    }
+
+    .header-menu {
+        display: none;
+    }
+
+    .menu-mobile {
+        display: block !important;
+        padding: 10px 0;
+    }
+    .menu-mobile .logo img {
+        height: 50px;
+    }
+
+    .menu-mobile .header {
+        text-align: right;
+    }
+
+    .menu-mobile .header a {
+        font-size: 24px;
+        color: #92191c;
+    }
+    nav#menu {
+        z-index: 10;
+        display: none;
+    }
+
+    nav#menu a {
+        font-size: 14px;
+    }
+
+    nav#menu.mm-menu_opened {
+        display: block;
+    }
+    .video-left .logo img {
+        width: 150px;
+    }
+
+    .video-left {
+        margin-bottom: 20px;
+    }
+
+    .video iframe {
+        height: 250px;
+    }
+
+    .video-top {
+        margin-bottom: 20px;
+    }
+
+    .box-slide {
+        margin-bottom: 20px;
+    }
+
+    .title h2 {
+        font-size: 20px;
+    }
+
+    .title {
+        margin-bottom: 30px;
+    }
+
+    .title h2:after {
+        height: 2px;
+        bottom: -8px;
+    }
+    .item-offer .avarta {
+        margin-bottom: 10px;
+    }
+
+    .item-offer .info h3 a {font-size: 15px;margin-bottom: 6px;}
+
+    .item-offer .info .desc {
+        margin-bottom: 0;
+        font-size: 13px;
+    }
+
+    .item-offer .readmore {
+        display: none; 
+    }
+
+    .box-offer {
+        margin-bottom: 25px;
+    }
+    .item-feedback .desc {
+        padding: 50px 15px 15px 15px;
+    }
+
+    .person h4 {
+        font-size: 16px;
+    }
+
+    .person h6 {
+        font-size: 13px;
+    }
+
+    .slick-dots {
+        margin-top: 15px;
+    }
+
+    .box-feedback {
+        margin-bottom: 25px;
+    }
+    .box-build {
+        margin-bottom: 25px;
+        padding: 20px 0;
+    }
+    .box-partner {
+        padding: 25px 0;
+    }
+
+    .slide-feedback .item-slide {
+        padding: 0 5px;
+    }
+
+    .slide-feedback {
+        margin: 0 -5px;
+    }
+    .list-part .slick-dots {
+        background: #f7f7f7;
+        padding-top: 10px;
+    }
+    .back-top {
+        right: 10px;
+        bottom: 10px;
+    }
+
+    .back-top a {
+        padding-bottom: 4px;
+    }
+
+    .copyright {
+        font-size: 13px;
+        padding: 10px 0;
+    }
+
+    .footer-top {
+        padding: 30px 0;
+        font-size: 14px;
+    }
+    .breadcrumbs h2 {
+        font-size: 16px;
+    }
+
+    .breadcrumbs {
+        padding: 10px 0;
+        margin-bottom: 20px; 
+    }
+    #about {
+        padding: 0 0 20px 0;
+    }
+
+    .title-detail h1 {
+        font-size: 18px;
+    }
+
+    .title-detail {
+        margin-bottom: 30px;
+    }
+
+    .title-detail h1:after {
+        bottom: -12px;
+        height: 2px;
+    }
+
+    .btn-ctn {
+        margin-top: 15px;
+    }
+
+    .btn-ctn a {
+        height: 40px;
+        font-size: 13px;
+    }
+    #contact {
+        padding-top: 0;
+    }
+
+    .maps {
+        padding-bottom: 30px;
+    }
+
+    .maps iframe {
+        height: 200px;
+    }
+
+    .txt-contact h1 {
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 15px;
+    }
+
+    .txt-contact ul li {
+        margin-bottom: 15px;
+    }
+
+    .txt-contact ul p {
+        font-size: 16px;
+        font-weight: 500;
+        margin-bottom: 0;
+    }
+
+    .txt-contact ul p:last-child {
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .txt-contact {
+        margin-bottom: 30px;
+    }
+
+    .form-contact .item input {
+        height: 40px;
+        font-size: 14px;
+        padding: 0 10px;
+    }
+
+    .form-contact .item {
+        margin-bottom: 10px;
+    }
+
+    .form-contact .item .btn-contact {
+        height: 45px;
+    }
+
+    .form-contact .item textarea {
+        height: 100px;
+        font-size: 14px;
+        padding: 5px 10px;
+    }
+
+    .info-contact .col-md-4:nth-child(2) {
+        order: 3;
+    }
+
+    .form-contact {
+        padding-bottom: 20px;
+    }
+    .filters ul {
+        flex-wrap: wrap;
+    }
+
+    .filters ul li {
+        margin-bottom: 5px;
+    }
+
+    .filters {
+        margin-bottom: 15px;
+    }
+
+    .portfolio {
+        padding: 0 0 30px 0;
+    }
+
+    .filters-content .item h3 {
+        opacity: 1;
+        transform: translate3d(0, -50%, 0) translate3d(0, -20px, 0);
+    }
+
+    .filters-content .cat {
+        opacity: 1;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        transition: .3s all;
+        padding-bottom: 5px;
+    }
+
+    .filters-content h3 a {
+        font-size: 15px;
+    }
+    .por-detail {
+        padding: 0 0 30px 0;
+    }
+
+    .detail-por {
+        padding-top: 20px;
+    }
+
+    .title-por {
+        font-size: 20px;
+        font-weight: bold;
+    }
+    #service {
+        padding: 0 0 30px 0;
+    }
+
+    .list-service .col-md-3 {
+        margin-bottom: 15px;
+    }
+
+    .item-service h3 {
+        font-size: 16px;
+    }
+    .toggle-acc .card-header button {
+        white-space: inherit;
+    }
+
+    .toggle-acc .card-header button.collapsed {
+        background: #ededed;
+    }
+
+    .box-choose {
+        padding-bottom: 30px;
+    }
+    .box-choose .avarta {
+        margin-bottom: 20px;
+    }
+    .txt-choose {
+        padding: 0 10px;
+    }
+
+    .box-feedback {
+        padding-top: 0;
+    }
+    #service-detail {
+        padding: 0 0 30px 0;
+    }
+
+    .tabs-side a {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    ul.tabs-side {
+        margin-bottom: 10px;
+    }
+
+    .tabs-side a.active:after {
+        display: none;
+    }
+
+    .title-bar {
+        margin-bottom: 30px;
+    }
+    .Modern-Slider .item h3 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .img-fill img {
+        height: 300px;
+        object-fit: cover;
+    }
+
+    .flex-info a {
+        font-size: 13px;
+        padding: 0 20px;
+        height: 40px;
+    }
+
+    .flex-info .more-slide {
+        font-size: 13px;
+    }
+    .click-scroll {
+        padding-bottom: 15px;
+    }
+    .Modern-Slider {
+        overflow: hidden;
+    }
+} 
+@media (max-width: 575px) {
+    .item-offer {
+        display: flex;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .item-offer .avarta {
+        flex: 0 0 45%;
+        margin-right: 10px;
+        margin-bottom: 0;
+    }
+
+    .item-offer .info {
+        text-align: left;
+    }
+
+    .box-offer {
+        margin-bottom: 10px;
+    }
+    .box-build {
+        text-align: center;
+    }
+
+    .box-build p {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+
+    .quote {
+        text-align: center;
+    }
+
+    .quote a {
+        height: 45px;
+    }
+    .list-service .col-md-3:last-child {
+        margin-bottom: 0;
+    }
+}
+@media (max-width: 1023px) and (min-width: 768px) {
+    .video-left .logo img {
+        width: 120px;
+    }
+
+    .video-left h1 {
+        font-size: 18px;
+    }
+    .header-menu ul li {
+        padding: 0 10px;
+    }
+
+    .header-menu ul a {
+        font-size: 14px;
+    }
+    .tabs-side a {
+        font-size: 13px;
+        padding: 5px 10px;
+    }
+
+    .tab-side {
+        padding-left: 10px;
+    }
+    .Modern-Slider {
+        overflow: hidden;
+    }
+    .Modern-Slider .item h3 {
+        font-size: 30px;
+        animation-ma-b: 25px;
+    }
+
+    .flex-info .more-slide {
+        font-size: 14px;
+    }
+
+    .flex-info a {
+        font-size: 14px;
+        height: 40px;
+    }
+} 
